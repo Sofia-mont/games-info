@@ -1,3 +1,5 @@
+import 'package:games_info/repository/model/filters.dart';
+
 import 'model_barrel.dart';
 import 'package:json_annotation/json_annotation.dart';
 
